@@ -1,17 +1,44 @@
-# MorseCode-decoder
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To Do list: list structure
+# Enumerable
 
-> During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can use this program which is written in Ruby and you can help yourself by decoding morse code and you can automate any others stuffs too.
-
-<img width='300px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/800px-International_Morse_Code.svg.png"/>
+> In this project we built how to use a module inside your class. For this you will create a class MyList and a module MyEnumerable
 
 
 ## Built With
 
 - `Ruby`
+
+## Getting Started 
+
+To get a local copy up and running follow these simple example steps. 
+
+**Install** 
+
+In your terminal, navigate to your current directory and 
+
+run this code
+
+`git clone https://github.com/zmekonnen251//Enumerable.git`
+
+Locate the directory in your file explorer
+
+`cd Enumerable`
+
+Install Rubocop
+
+`bundle install` 
+
+**Run Linters:**
+
+**To run rubocop**
+we use: `rubocop` 
+
+**To autocorrect offenses with rubocop**
+
+we use: `rubocop --auto-correct-all` or `rubocop -A` 
+Built With - Ruby - Terminal - IRB - Rubocop (linters) 
 
 ## Author
 
